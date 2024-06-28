@@ -28,7 +28,7 @@ Popular genres and their evolution over time
 Your contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request. Let's make this project even more insightful together.
 
 # License
-This project is under the MIT License. For more details, see the LICENSE file.
+This project is under the MIT License. For more details, see the [LICENSE](https://github.com/MEHRAN-DEV-AI/NETFLIX-ANALYSIS/blob/main/LICENSE) file.
 
 # Shout-outs
 The dataset used is sourced from Kaggle.
