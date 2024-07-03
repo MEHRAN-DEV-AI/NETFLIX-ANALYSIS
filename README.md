@@ -1,7 +1,7 @@
 # NETFLIX-ANALYSIS
 
 # Direct Access To The Notebook
-[CLICK HERE]() TO SEE THE NOTEBOOK DIRECTLY.
+[CLICK HERE](https://nbviewer.org/github/MEHRAN-DEV-AI/NETFLIX-ANALYSIS/blob/main/NETFLIX%20ANALYSIS.ipynb) TO SEE THE NOTEBOOK DIRECTLY.
 # Overview
  Welcome to the Netflix Data Analysis project! Dive into the world of Netflix with this comprehensive exploration of the shows and movies available on the platform. Using the rich dataset provided, we uncover fascinating insights and trends that define Netflix's vast content library.
 
